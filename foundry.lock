@@ -1,4 +1,7 @@
 {
+  "lib/v4-periphery": {
+    "rev": "3779387e5d296f39df543d23524b050f89a62917"
+  },
   "lib/forge-std": {
     "tag": {
       "name": "v1.14.0",
